@@ -1,3 +1,5 @@
+HTML 3.2: https://www.w3.org/TR/2018/SPSD-html32-20180315/
+
 https://html-only.netlify.app/
 
 https://motherfuckingwebsite.com/
