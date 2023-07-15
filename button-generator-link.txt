@@ -1,7 +1,8 @@
 Font Pagella bold italic 26
 Size fixed 213 35
+Text shadow 1 #fff
 Corner radius 12
-Color simple gradient #ffb336 #fff
+Color simple gradient #ff9900 #fff
 Bubble effect
 Shadow 3 south-east
 
