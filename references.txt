@@ -12,3 +12,11 @@ Corner radius 12
 Color simple gradient #ff9900 #fff
 Bubble effect
 Shadow 3 south-east
+
+Section button:
+Font Droid bold italic 26
+Size fixed 216 38
+Text shadow 0
+Corner radius 0
+Color pyramid gradient #00ffff #0000ff
+Shadow 0
